@@ -4,5 +4,4 @@
 
 3.xbBildPDteam.py and xbBildPRteam.py are used to create the best pursuer and evader teams, and you will get BstEvad_v2.csv BstPur_v2.csv. 
 
-4. teams-nosee-opponent.R is for the opposing team's lineups are unknown and the team does not allow changes the results,
-teams-see-opponent.R is the team knows the opponent's lineups and can modify strategies.
+4. teams-nosee-opponent.R is for the opposing team's lineups are unknown and the team does not allow changes the results, teams-see-opponent.R is the team knows the opponent's lineups and can modify strategies.
